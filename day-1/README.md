@@ -2,7 +2,6 @@
 
 ## 1. Traditional AI in DevOps
 Traditional AI relies on **structured data, pre-defined rules, and predictive models** trained on historical data. It excels at classification, forecasting, and anomaly detection.
-test
 ### Example: Incident Detection & Prediction
 - **Use Case:** Predicting system failures before they occur.
 - **How It Works:**  
@@ -12,8 +11,7 @@ test
 - **Limitations:**  
   - Works only on pre-trained scenarios.  
   - Cannot generate insights beyond structured input data.
-  - ![Screenshot2025_07_24_225257](https://github.com/user-attachments/assets/68c56768-446d-4fc8-b8f0-e9dae5d243ec)
- 
+  
 
 ---
 
