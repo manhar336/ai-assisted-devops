@@ -11,7 +11,9 @@ test
   - The system alerts DevOps teams to take preventive action.  
 - **Limitations:**  
   - Works only on pre-trained scenarios.  
-  - Cannot generate insights beyond structured input data.  
+  - Cannot generate insights beyond structured input data.
+  - ![Screenshot2025_07_24_225257](https://github.com/user-attachments/assets/68c56768-446d-4fc8-b8f0-e9dae5d243ec)
+ 
 
 ---
 
